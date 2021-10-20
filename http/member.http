@@ -1,0 +1,6 @@
+# 1. Member 단일 조회
+GET {{host}}/member/
+Content-Type: application/json
+
+###
+GET {{host}}/member/find?id=01096591368
